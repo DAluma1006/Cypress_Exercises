@@ -1,0 +1,28 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "E2E framework testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1006da/CypressTestsExcercises.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework"
+  ],
+  "author": "daniela Cifuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1006da/CypressTestsExcercises/issues"
+  },
+  "homepage": "https://github.com/1006da/CypressTestsExcercises#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
